@@ -1,3 +1,3 @@
 # PasticceriaSimulator
 
-## Team (Alessio e Jean)
+ Team (Alessio e Jean)
